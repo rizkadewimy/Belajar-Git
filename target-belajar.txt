@@ -6,3 +6,6 @@ Kamis : GNS3
 Jumat : Triger DB
 Sabtu : Risfandi Tugas kelompok UI
 Minggu : Risfandi Tugas Kelompok basis data lanjut
+
+
+INI FILE DI BRANCH
