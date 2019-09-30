@@ -5,3 +5,5 @@ Kamis : belajar GNS3
 Jumat : Triger DB
 sabtu : Risfandi, Belajar kelompok sistem UI
 minggu : Risfandi, Belajar Kelompok Basis data lanjut
+
+INI FILE DI MASTER
